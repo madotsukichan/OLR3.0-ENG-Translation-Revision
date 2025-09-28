@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_to_inventory">
+		<text>To inventory</text>
+	</string>
+	<string id="st_exit">
+		<text>EXIT</text>
+	</string>
+	<string id="st_spawn_menu">
+		<text>SPAWN MENU</text>
+	</string>
+	<string id="st_type_your_own_object_section">
+		<text>... or type your own object section</text>
+	</string>
+	<string id="st_cheat_funcs">
+		<text>Cheat functons</text>
+	</string>
+	<string id="st_spawn">
+		<text>Spawn</text>
+	</string>
+	<string id="st_add-delete_infoportion">
+		<text>Add/Delete infoportion</text>
+	</string>
+	<string id="st_type_infoportion_to_add-delete">
+		<text>Type infoportion to add/delete:</text>
+	</string>
+	<string id="st_add-del">
+		<text>Add/Delete</text>
+	</string>
+	<string id="st_ppe_files_control">
+		<text>PPE-files control</text>
+	</string>
+	<string id="st_type_ppe_file_name">
+		<text>Type PPE-file name:</text>
+	</string>
+	<string id="st_on-off">
+		<text>On/Off</text>
+	</string>
+	<string id="st_info_about_actor_coordinates">
+		<text>Info about actor coordinates</text>
+	</string>
+	<string id="st_show">
+		<text>Show</text>
+	</string>
+	<string id="st_object_search_in_game">
+		<text>Search object in game</text>
+	</string>
+	<string id="st_type_searching_object_name">
+		<text>Type name (or part) of section of searching object:</text>
+	</string>
+	<string id="st_search">
+		<text>Search</text>
+	</string>
+	<string id="st_spawn_ojbect_by_section">
+		<text>Spawn object (by section)</text>
+	</string>
+	<string id="st_type_object_section">
+		<text>Type object's section for spawn, [amount]:</text>
+	</string>
+	<string id="st_cheater_spawned_ammo">
+		<text>%c[ui_7]Cheater spawned ammo:%c[ui_2]</text>
+	</string>
+	<string id="st_cheater_spawned_car">
+		<text>%c[ui_7]Cheater spawned a car:%c[ui_2]</text>
+	</string>
+	<string id="st_cheater_spawned_weapon">
+		<text>%c[ui_7]Cheater spawned a weapon:%c[ui_2]</text>
+	</string>
+	<string id="st_cheater_spawned_knife">
+		<text>%c[ui_7]Cheater spawned a knife:%c[ui_2]</text>
+	</string>
+	<string id="st_cheater_spawned">
+		<text>%c[ui_7]Cheater spawned:%c[ui_2]</text>
+	</string>
+	<string id="st_great_modder_nickname">
+		<text>©Audron</text>
+	</string>
+	<string id="st_great_modder_phrase">
+		<text>Какой смысл срать под каждым кустом если один хер это не увидят</text>
+	</string>
+	<string id="st_pistol">
+		<text>Pistols</text>
+	</string>
+	<string id="st_assault">
+		<text>Riffles</text>
+	</string>
+	<string id="st_heavy">
+		<text>Heavy weapons</text>
+	</string>
+	<string id="st_shotgun">
+		<text>Shotguns</text>
+	</string>
+	<string id="st_uniq_wpn">
+		<text>Uniq weapons</text>
+	</string>
+	<string id="st_stalkers">
+		<text>Stalkers</text>
+	</string>
+	<string id="st_stalkers_uniq">
+		<text>Uniq stalkers</text>
+	</string>
+	<string id="st_arts">
+		<text>Artefacts</text>
+	</string>
+	<string id="st_arts_olr">
+		<text>OLR artefacts</text>
+	</string>
+	<string id="st_knives">
+		<text>Knives</text>
+	</string>
+	<string id="st_wpn_addons">
+		<text>Weapon addons</text>
+	</string>
+	<string id="st_devices">
+		<text>Devices</text>
+	</string>
+	<string id="st_outfits">
+		<text>Outfits</text>
+	</string>
+	<string id="st_food">
+		<text>Food&Drugs</text>
+	</string>
+</string_table>

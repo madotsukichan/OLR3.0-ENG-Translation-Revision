@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="binoc_tutorial">
+		<text>Think twice before hoarding any piece of loot you find around the Zone. Watch your weight, remember your backpack's total volume, and keep in mind that weapons, artifacts, food, anything can be infected with radiation.</text>
+	</string>
+	<string id="binocular">
+		<text>Binoculars</text>
+	</string>
+	<string id="crouch">
+		<text>Crouching</text>
+	</string>
+	<string id="crouch_down_tutorial">
+		<text>To go prone on the ground, press ($$ACTION_crouch$$) + (Shift).</text>
+	</string>
+	<string id="crouch_tutorial">
+		<text>To crouch, press ($$ACTION_crouch$$). To crouch lower, press ($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
+	</string>
+	<string id="hide_weapon">
+		<text>Weapon selection</text>
+	</string>
+	<string id="hide_weapon_tutorial">
+		<text>Don't aim at stalkers you intend to talk to. Remember to lower your weapon by switching to your bolts or binoculars beforehand.</text>
+	</string>
+	<string id="jump">
+		<text>Jumping</text>
+	</string>
+	<string id="jump_tutorial">
+		<text>To jump, press ($$ACTION_jump$$). The height of the jump will depend on your stamina and overall health.</text>
+	</string>
+	<string id="move_tutorial">
+		<text>Moving</text>
+	</string>
+	<string id="overload">
+		<text>Overload</text>
+	</string>
+	<string id="overload_tutorial">
+		<text>The more you carry, the faster you will lose stamina. Manage your inventory often and don't get greedy, being forced to walk during an unfortunate situation can be fatal.</text>
+	</string>
+	<string id="radiation">
+		<text>Radiation</text>
+	</string>
+	<string id="radiation_tutorial">
+		<text>Radiation is the ultimate silent killer. Taking one wrong step in an irradiated spot or carrying a contaminated item or artifact are invisible yet lethal threats. Use anti-rads if you are severely poisoned, or drink some vodka if you must, just consider the side effects... Stay alert to your radiation levels.</text>
+	</string>
+	<string id="relation">
+		<text>Relationships</text>
+	</string>
+	<string id="relation_tutorial">
+		<text>If you decide to help a stalker out of a tricky situation, then rest assured that stalker won't forget about you anytime soon - your reputation will increase, which means  discounts from merchants. The opposite is true as well, behave like scum and you will pay hefty prices...</text>
+	</string>
+	<string id="sleep_tutorial">
+		<text>Feel free to use the bed on the floor if you need to rest, skip the night, or pass some time. Life in the Zone can manifest strange, vivid dreams, too...</text>
+	</string>
+	<string id="sprint">
+		<text>Sprinting</text>
+	</string>
+	<string id="sprint_tutorial">
+		<text>Sprint by pressing ($$ACTION_sprint_toggle$$) while walking. It will tire you faster, but it will be your only option to travel quickly, and of course, your best course of action to get out of potentially ugly situations. You will run for longer if you are healthy and well fed.</text>
+	</string>
+	<string id="starvation_tutorial">
+		<text>When a character doesn't eat for a long time, they get a feeling of hunger. When hunger becomes severe, the character's health starts to slowly decrease. In order for a character's health to stop decreasing, you must eat. You can satisfy your hunger by eating a loaf of bread, canned food or a piece of sausage. The quality of saturation depends on the condition of the product.
+\n
+Never neglect your stomach, because hunger means less stamina, and starvation means a slow, painful death. Always bring some food with you anywhere you go, and remember, food spoils after a while. Satiety depends on the condition of your next meal.</text>
+	</string>
+	<string id="tutorial">
+		<text>Training</text>
+	</string>
+	<string id="weakness">
+		<text>Fatigue</text>
+	</string>
+	<string id="weakness_tutorial">
+		<text>Running for prolonged periods of time with a heavy backpack will tire you faster, so organize your inventory before heading out and avoid lugging around a lot of stuff at once. You can restory stamina fairly quickly by standing still for a moment, and if you can, bring some water with you just in case. Finally, remember that running increases your appetite</text>
+	</string>
+	<string id="weapon">
+		<text>Weapon condition</text>
+	</string>
+	<string id="weapon_tutorial">
+		<text>Weapons get rusty and damaged by use for long stretches of time, causing them to jam and deal slightly less damage than normal. In order to fire it again, reload it with  (button $$ACTION_wpn_reload$$).</text>
+	</string>
+	<string id="wound">
+		<text>Open wounds</text>
+	</string>
+	<string id="wound_tutorial">
+		<text>Receiving damage may result in open, bloody wounds, which will drain your health depending on the injury's seriousness (green for weak lascerations which go away on their own over time, and red for deeper holes and scratches), Use a bandage as quickly as possible if you needed.</text>
+	</string>
+</string_table>
